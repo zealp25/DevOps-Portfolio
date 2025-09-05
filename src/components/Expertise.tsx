@@ -24,7 +24,7 @@ const labelsSecond = [
     "Docker",
     "AWS",
     "Azure",
-    "Linux",,
+    "Linux",
     "Pandas",
     "Selenium",
     "Powershell & Bash",
