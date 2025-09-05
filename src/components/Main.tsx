@@ -2,7 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import pfp from '../assets/images/pfp.jpg'; // Import the image
+import pfp from '../assets/images/pfp.png'; // Import the image
 
 function Main() {
 
