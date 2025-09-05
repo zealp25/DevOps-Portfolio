@@ -14,7 +14,7 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="hhttps://github.com/zealp25" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://github.com/zealp25" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/zeal-patel-67ba4b230/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Zeal Patel</h1>
