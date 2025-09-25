@@ -35,19 +35,19 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">ColoXchange NV Inc.</h3>
             <h4 className="vertical-timeline-element-subtitle">Las Vegas, NV</h4>
             <p>
-               <b>Cloud Engineer</b>
+               <b>DevOps Engineer</b>
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="MAR 2020 – MAY 2023"
+            date="MAR 2029 – MAY 2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Vishag Tech Pvt Ltd</h3>
             <h4 className="vertical-timeline-element-subtitle">Vadodara, IND</h4>
             <p>
-              <b>DevOps Engineer </b>
+              <b>Cloud Engineer </b>
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
